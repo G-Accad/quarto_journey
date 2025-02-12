@@ -32,14 +32,7 @@
     "href": "index.html#folk-singing-dashboard",
     "title": "My Quarto Journey",
     "section": "Folk Singing Dashboard",
-    "text": "Folk Singing Dashboard\nMy Turning Point with Quarto\n\nStarted this project using {flexdashboard} 📊\n\nRight as I was working on it, Quarto released its own dashboard format\n\nDecided to convert my project to a Quarto dashboard"
-  },
-  {
-    "objectID": "index.html#teaching-python-r",
-    "href": "index.html#teaching-python-r",
-    "title": "My Quarto Journey",
-    "section": "Teaching: Python & R",
-    "text": "Teaching: Python & R\nThe Game-Changer: HTML Live Extension\n\nIn September, Quarto introduced HTML Live, an extension that allows you to run R and Python side by side on a website.\n\nWebsite"
+    "text": "Folk Singing Dashboard\nMy Turning Point with Quarto\n\nStarted this project using {flexdashboard} 📊\n\nRight as I was working on it, Quarto released its own dashboard format\n\nDecided to convert my project to a Quarto dashboard\n\n  \n\n\n\n## Teaching: Python & R\n\n\n### The Game-Changer: HTML Live Extension\n\n\n- In September, Quarto introduced HTML Live, an extension that allows you to run R and Python side by side on a website.\n\n\n### Website\n\n\n::: text-center &lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr class=\"even\"&gt;\n&lt;td style=\"text-align: left;\"&gt; :::"
   },
   {
     "objectID": "index.html#staff-survey-report",
