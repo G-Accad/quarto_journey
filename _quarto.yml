@@ -1,0 +1,14 @@
+project:
+  type: website  # This tells Quarto to treat the project as a website
+
+website:
+  title: "My Quarto Presentation"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: slides.qmd
+        text: Slides
+format:
+  revealjs:
+    theme: white
