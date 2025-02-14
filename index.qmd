@@ -1,0 +1,109 @@
+---
+title: "My Quarto Journey"
+author: "Grace Accad"
+format: 
+  revealjs:
+    transition: fade
+    multiplex: true
+    theme: ["pp.scss"]
+    slide-number: c/t
+    incremental: true
+    background-color: "white"
+    code-copy: true
+    auto-stretch: false
+    chalkboard: true
+    code-link: true
+    code-overflow: wrap
+    title-slide-attributes:
+      data-background-image: images/title.jpg
+    footer: "[Link to Slides](https://G-Accad.github.io/quarto_journey/)"
+editor: visual
+---
+
+## What is Quarto?
+
+-   **Quarto** is an open-source publishing system for data science and technical content.
+-   It supports **R, Python, Julia, and ObservableJS**.
+-   Used for **reports, presentations, blogs, books, and more**.
+
+## Quarto VS R Markdown?
+
+| Feature            | Quarto                                  | R Markdown                    |
+|------------------|-----------------------------|-------------------------|
+| **Multi-language** | Supports R, Python, Julia, ObservableJS | Primarily R                   |
+| **Flexibility**    | Built-in support for Jupyter Notebooks  | R Markdown only               |
+| **Output Options** | PDF, HTML, Word, Reveal.js, more        | Limited to R Markdown formats |
+| **Markdown**       | Uses Pandoc Markdown for portability    | Uses R-specific Markdown      |
+
+------------------------------------------------------------------------
+
+## Sheffield R Survey Visualizations ![](images/google.png){width="6%"}
+
+### September 2023
+
+**What made this project special?**\
+- Used **{googlesheets4}** 📊 to read data directly from Google Sheets\
+- My **first project in Quarto**—I was still a beginner!\
+![](images/screenshot2.png){width="7.2cm"} ![](images/screenshot1.png){width="8cm" height="4.2cm"}
+
+------------------------------------------------------------------------
+
+## Sheffield R Website
+
+-   The website was already built **using Quarto**
+-   I contributed by **creating posts**
+-   It was my **first experience working with Quarto websites**
+-   I learned how easy it is to **write, format, and publish content** using `.qmd` files
+
+![](images/SheffieldR.png){fig-align="center" width="50%" height="auto"}
+
+------------------------------------------------------------------------
+
+## Folk Singing Dashboard
+
+### My Turning Point with Quarto
+
+-   Started this project using `{flexdashboard}` 📊\
+-   Right as I was working on it, **Quarto released its own dashboard format**\
+-   Decided to **convert my project to a Quarto dashboard**
+
+![](images/flexdashboard.png){fig-align="left" width="25%" height="auto"} ![](images/arrow.png){fig-align="center" width="10%"} ![](images/quarto_dashboard.png){fig-align="right" width="45%"}
+
+------------------------------------------------------------------------
+## Teaching: Python & R
+
+### The Game-Changer: HTML Live Extension
+
+-   In **September**, Quarto introduced **HTML Live**, an extension that allows you to **run R and Python side by side** on a website.
+
+### [Website](https://g-accad.github.io/website1/chapters/chapter1.html)
+
+::: text-center
+<iframe src="https://g-accad.github.io/website1/chapters/chapter1.html" width="80%" height="400px" style="display: block; margin: auto;">
+
+</iframe>
+:::
+
+------------------------------------------------------------------------
+
+## Staff Survey Report
+
+-   Generated some graphs in**Python**
+
+![Quarto Report](images/staff_survey.png){width="45%"} ![Graph created in Python](images/python.png){width="45%"}
+
+------------------------------------------------------------------------
+
+## Finally: These Slides 🎉
+
+-   Link to Slides
+
+### Future Plans:
+
+-   Try out book option
+
+------------------------------------------------------------------------
+
+## Thank You!
+
+-   Questions? Let’s discuss!

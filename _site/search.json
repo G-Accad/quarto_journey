@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html#what-is-quarto",
+    "href": "index.html#what-is-quarto",
+    "title": "My Quarto Journey",
+    "section": "What is Quarto?",
+    "text": "What is Quarto?\n\nQuarto is an open-source publishing system for data science and technical content.\nIt supports R, Python, Julia, and ObservableJS.\nUsed for reports, presentations, blogs, books, and more."
+  },
+  {
+    "objectID": "index.html#quarto-vs-r-markdown",
+    "href": "index.html#quarto-vs-r-markdown",
+    "title": "My Quarto Journey",
+    "section": "Quarto VS R Markdown?",
+    "text": "Quarto VS R Markdown?\n\n\n\n\n\n\n\n\nFeature\nQuarto\nR Markdown\n\n\n\n\nMulti-language\nSupports R, Python, Julia, ObservableJS\nPrimarily R\n\n\nFlexibility\nBuilt-in support for Jupyter Notebooks\nR Markdown only\n\n\nOutput Options\nPDF, HTML, Word, Reveal.js, more\nLimited to R Markdown formats\n\n\nMarkdown\nUses Pandoc Markdown for portability\nUses R-specific Markdown"
+  },
+  {
+    "objectID": "index.html#sheffield-r-survey-visualizations",
+    "href": "index.html#sheffield-r-survey-visualizations",
+    "title": "My Quarto Journey",
+    "section": "Sheffield R Survey Visualizations ",
+    "text": "Sheffield R Survey Visualizations \nSeptember 2023\nWhat made this project special?\n- Used {googlesheets4} 📊 to read data directly from Google Sheets\n- My first project in Quarto—I was still a beginner!"
+  },
+  {
+    "objectID": "index.html#sheffield-r-website",
+    "href": "index.html#sheffield-r-website",
+    "title": "My Quarto Journey",
+    "section": "Sheffield R Website",
+    "text": "Sheffield R Website\n\nThe website was already built using Quarto\nI contributed by creating posts\nIt was my first experience working with Quarto websites\nI learned how easy it is to write, format, and publish content using .qmd files"
+  },
+  {
+    "objectID": "index.html#folk-singing-dashboard",
+    "href": "index.html#folk-singing-dashboard",
+    "title": "My Quarto Journey",
+    "section": "Folk Singing Dashboard",
+    "text": "Folk Singing Dashboard\nMy Turning Point with Quarto\n\nStarted this project using {flexdashboard} 📊\n\nRight as I was working on it, Quarto released its own dashboard format\n\nDecided to convert my project to a Quarto dashboard\n\n  \n\n\n\n## Teaching: Python & R\n\n\n### The Game-Changer: HTML Live Extension\n\n\n- In September, Quarto introduced HTML Live, an extension that allows you to run R and Python side by side on a website.\n\n\n### Website\n\n\n::: text-center &lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr class=\"even\"&gt;\n&lt;td style=\"text-align: left;\"&gt; :::"
+  },
+  {
+    "objectID": "index.html#staff-survey-report",
+    "href": "index.html#staff-survey-report",
+    "title": "My Quarto Journey",
+    "section": "Staff Survey Report",
+    "text": "Staff Survey Report\n\nGenerated some graphs inPython"
+  },
+  {
+    "objectID": "index.html#finally-these-slides",
+    "href": "index.html#finally-these-slides",
+    "title": "My Quarto Journey",
+    "section": "Finally: These Slides 🎉",
+    "text": "Finally: These Slides 🎉\n\nLink to Slides\n\nFuture Plans:\n\nTry out book option"
+  },
+  {
+    "objectID": "index.html#thank-you",
+    "href": "index.html#thank-you",
+    "title": "My Quarto Journey",
+    "section": "Thank You!",
+    "text": "Thank You!\n\nQuestions? Let’s discuss!"
+  }
+]
