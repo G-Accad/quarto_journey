@@ -248,7 +248,12 @@ Grace Accad
 <ul>
 <li class="fragment">Generated some graphs in<strong>Python</strong></li>
 </ul>
-<p><img data-src="images/staff_survey.png" style="width:45.0%" alt="Quarto Report"> <img data-src="images/python.png" style="width:45.0%" alt="Graph created in Python"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/staff_survey.png" style="width:45.0%"></p>
+<figcaption>Quarto Report</figcaption>
+</figure>
+</div>
 </section>
 <section id="finally-these-slides" class="slide level2">
 <h2>Finally: These Slides 🎉</h2>
@@ -575,7 +580,7 @@ Grace Accad
       }
         var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
         var mailtoRegex = new RegExp(/^mailto:/);
-          var filterRegex = new RegExp("https:\/\/G-Accad\.github\.io\/quarto_journey\/");
+          var filterRegex = new RegExp('/' + window.location.host + '/');
         var isInternal = (href) => {
             return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
         }

@@ -90,7 +90,7 @@ editor: visual
 
 -   Generated some graphs in**Python**
 
-![Quarto Report](images/staff_survey.png){width="45%"} 
+![](images/staff_survey.png){width="45%"} 
 
 ------------------------------------------------------------------------
 
